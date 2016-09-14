@@ -11,25 +11,23 @@
   var suite = new Benchmark.Suite;
 
    suite.add('for100', function() {
-  var x=0
+  var x=0;
    for (var i=0;i<100;i++) {
 
-   x=x+i
+   x=x+i;
    }
 
  }).add('for1000', function() {
-    var y=0
+    var y=0;
    for (var b=0;b<1000;b++) {
-   y=y+i
+   y=y+b;
    }
 
    })
 
    .on('cycle', function(event) {
    console.log(String(event.target));
-   }).on('error', function(mensaje) {
-   console.log(mensaje);
-   }).on('complete', function() {
+    }).on('complete', function()  {
    console.log('el mas rapido es: ' + this.filter('fastest').map('name'));
    }).run();
 
