@@ -1,0 +1,1 @@
+Sirve para almacenar modulos (paquetes javaScript) que pueden cargarse y que dan una funcionalidad especifica para la aplicacion.
