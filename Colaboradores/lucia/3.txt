@@ -1,2 +1,2 @@
-npm,
-gestor de paquetes que los instala localmente en los proyectos. Es decir, al descargarse un módulo, se agrega a un proyecto local, que es el que lo tendrá disponible para incluir. Aunque cabe decir npmque también existe la posibilidad de instalar los paquetes de manera global en nuestro sistema.
+
+NPM es un gestor de módulos y aplicaciones para Node.js, con el cual los desarrolladores podemos crear, compartir y reutilizar módulos en nuestras aplicaciones
