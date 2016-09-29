@@ -1,0 +1,1 @@
+El control de versiones guarda los cambios que se realizan en uno o varios archivos pudiendo asi recuperar "versiones" mas antiguas.
