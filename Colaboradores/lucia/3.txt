@@ -1,0 +1,2 @@
+
+NPM es un gestor de módulos y aplicaciones para Node.js, con el cual los desarrolladores podemos crear, compartir y reutilizar módulos en nuestras aplicaciones

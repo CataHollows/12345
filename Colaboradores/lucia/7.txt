@@ -1,0 +1,3 @@
+--RAMA <BRANCH>
+
+Es un anotadro del Git que contiene el codigo del repositorio y que se utiliza para poder ver los cambios en nuestro control de versiones y desarrollar las funcionalidades aisladas de unas ramas a otras.
