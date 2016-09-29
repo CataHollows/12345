@@ -1,0 +1,9 @@
+FTP (siglas en inglés de File Transfer Protocol, 'Protocolo de Transferencia de Archivos')
+en informática, es un protocolo de red para la transferencia de archivos entre sistemas
+ conectados a una red TCP (Transmission Control Protocol),
+basado en la arquitectura cliente-servidor.
+
+
+
+
+un servidor web o servidor HTTP es un programa informático que procesa una aplicación del lado del servidor, realizando conexiones bidireccionales y/o unidireccionales y síncronas o asíncronas con el cliente y generando o cediendo una respuesta en cualquier lenguaje o Aplicación del lado del cliente.
