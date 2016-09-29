@@ -1,0 +1,82 @@
+--GULP
+
+es un gestor de tareas que automatiza la reduccion del c�digo.
+Permite automatizar tareas comunes de desarrollo, tales como la minificaci�n de c�digo JavaScript, recarga del navegador, compresi�n de im�genes, validaci�n de sintaxis de c�digo y un sin fin de tareas m�s.
+
+est� constru�do con Javascript, funciona sobre Node.js y es Open Source, as� que su c�digo fuente lo puedes encontrar en github.
+
+Gulp.js utiliza el m�dulo Stream de Node.js, lo cual lo hace m�s r�pido para construir, a diferencia de Grunt.js.
+
+Gulp.js utiliza el m�todo pipe(), este m�todo obtiene todos los datos de un Stream legible(readable) y lo escribe en destino que le indiquemos � de lo contrario lo entrega o sirve hacia otro pipe.
+
+
+ gulpfile.js, que es el archivo que Gulp.js necesita para saber que tareas realizar� y de momento no le podremos ning�n contenido.
+
+--UGLIFY
+
+para que colapse el codigo
+
+
+---RAMAS
+
+Las ramas son utilizadas para desarrollar funcionalidades aisladas unas de otras. La rama master es la rama "por defecto" cuando creas un repositorio. Crea nuevas ramas durante el desarrollo y fusiónalas a la rama principal cuando termines.
+
+--�COMO SE EJECUTA DESDE LA LINEA DE COMANDOS EL GULP?
+gulp --gulpfile nombrefichero.js
+
+
+
+--�QUE TAREA EJECUTA POR DEFECTO?
+Default
+
+--ENTREGABLE
+
+Distribucion que se entrega a un cliente. PUEDES MONTAR 1 O 2 POR SEMANA.
+
+El cliente pprimero prueba este entregable cuando el quiera.
+
+
+
+--DISTRIBUCI�N
+
+Es un conjunto de ficheros preparados para ser desplegados en un servidor. Puedes hacer las quieras por semana. las distribuciones se construyen con gulp o con alguno que se le parezca.
+
+de muchas distribuciones, sale un entregable.
+
+
+
+caracteristica principal
+es independiente funciona sola
+
+
+
+-- SOBRE HOJAS DE ESTILOS.
+No tiene sentido crear una sola hoja de estilo, quiere decir que los estilos son compartidos. Es mejor tener varias hojas de estilo y despues concatenar.
+
+--COMMIT
+Los commit son básicamente los cambios que registramos a lo largo del desarrollo, cada commit debe ir acompañado de un mensaje, ya que tenemos listos nuestros cambios podemos registrar y enviar nuestro primer commit.
+
+Se registran los cambios en el repositorio
+
+
+--RAMA <BRANCH>
+Contiene el codigo de repositorio. De ahi se saca la distribucion y de ahi el entregable.
+Aqui se hace los cambios importantes.
+
+--MERGE
+Operacion de unificacion para dos ramas.
+
+--SRC
+
+---.pipe(concat('main.js'))
+definimos el nombre del archivo que ser� al resultado de la concatenaci�n de los archivos que este en el directorio anterior.
+
+
+---(gulp.watch).
+puede observar los cambios y autom�ticamente ejecutar las tareas con el plugin
+
+/////COMANDOS////
+
+nmp install gulp
+
+npm install gulp-concat --save-dev -> Minimizar el c�digo JavaScript
