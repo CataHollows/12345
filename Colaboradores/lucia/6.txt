@@ -1,4 +1,5 @@
 FTP y servidor web
 
-la FTP es un servicio que se utiliza para transferir información, almacenada en ficheros, de una máquina remota a otra local, o viceversa.
-la transferencia de archivos entre sistemas conectados a una red esta basado en la arquitectura cliente-servidor.Desde un equipo cliente se puede conectar a un servidor para descargar archivos desde él o para enviarle archivos, independientemente del sistema operativo utilizado en cada equipo
+la FTP es un servicio que se utiliza para transferir información, almacenada en ficheros, de una máquina remota a otra local, o viceversa. esta basado en la arquitectura cliente-servidor.
+
+Almacena principalmente documentos HTML (son documentos a modo de archivos con un formato especial para la visualización de páginas web en los navegadores de los clientes), imágenes, videos, texto, presentaciones, y en general todo tipo de información. Además se encarga de enviar estas informaciones a los clientes.
