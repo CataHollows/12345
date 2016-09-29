@@ -1,0 +1,2 @@
+npm,
+gestor de paquetes que los instala localmente en los proyectos. Es decir, al descargarse un módulo, se agrega a un proyecto local, que es el que lo tendrá disponible para incluir. Aunque cabe decir npmque también existe la posibilidad de instalar los paquetes de manera global en nuestro sistema.
