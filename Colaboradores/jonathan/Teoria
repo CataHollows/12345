@@ -1,0 +1,58 @@
+--gulp
+
+es un gestor de tareas que automatiza la reduccion del código
+
+--UGLIFY
+
+para que colapse el codigo
+
+--¿COMO SE EJECUTA DESDE LA LINEA DE COMANDOS EL GULP?
+gulp --gulpfile nombrefichero.js
+
+
+
+--¿QUE TAREA EJECUTA POR DEFECTO?
+Default
+
+--ENTREGABLE
+
+Distribucion que se entrega a un cliente. PUEDES MONTAR 1 O 2 POR SEMANA.
+
+El cliente pprimero prueba este entregable cuando el quiera.
+
+
+
+--DISTRIBUCIÓN
+
+Es un conjunto de ficheros preparados para ser desplegados en un servidor. Puedes hacer las quieras por semana. las distribuciones se construyen con gulp o con alguno que se le parezca.
+
+de muchas distribuciones, sale un entregable.
+
+
+
+caracteristica principal
+es independiente funciona sola
+
+
+
+-- SOBRE HOJAS DE ESTILOS.
+No tiene sentido crear una sola hoja de estilo, quiere decir que los estilos son compartidos. Es mejor tener varias hojas de estilo y despues concatenar.
+
+--COMMIT
+--RAMA <BRANCH>
+Contiene el codigo de repositorio. De ahi se saca la distribucion y de ahi el entregable.
+Aqui se hace los cambios importantes.
+
+--MERGE
+Operacion de unificacion para dos ramas.
+
+--SRC
+
+
+
+
+
+
+/////COMANDOS////
+
+nmp install gulp
