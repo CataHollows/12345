@@ -1,6 +1,3 @@
 --RAMA <BRANCH>
 
-Las ramas son utilizadas para desarrollar funcionalidades aisladas unas de otras. La rama master es la rama "por defecto" cuando creas un repositorio. Crea nuevas ramas durante el desarrollo y fusiónalas a la rama principal cuando termines.
-
-Contiene el codigo de repositorio. De ahi se saca la distribucion y de ahi el entregable.
-Aqui se hace los cambios importantes.
+Es un anotadro del Git que contiene el codigo del repositorio y que se utiliza para poder ver los cambios en nuestro control de versiones y desarrollar las funcionalidades aisladas de unas ramas a otras.
