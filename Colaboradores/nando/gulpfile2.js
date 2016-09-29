@@ -6,5 +6,5 @@ var srcHTML="./src/html/*.html";
 
 gulp.task("default", function() {
     gulp.src(srcHTML)
-        .pipe(gulp.dest(destino));
+        .pipe(gulp.dest(destino))
     });
