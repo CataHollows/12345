@@ -1,0 +1,4 @@
+Servidor web  sirve para compartir a través del browser las páginas web y aplicaciones web del lado del cliente.
+
+Servidor FTP:  sirve para recibir y/o enviar archivos en forma de (texto) o (imagenes y otros). Para usarlo necesitas un cliente FTP o programa para enviar/recibir archivos.
+Ambos se complementan bien y pueden trabajar en un mismo servidor o en varios. 

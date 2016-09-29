@@ -1,0 +1,1 @@
+"Minify" Se refiere a reducir lo mas posibleel tamaño de los archivos CSS y JS antes de ser enviados al cliente
